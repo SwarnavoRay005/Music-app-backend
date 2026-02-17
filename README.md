@@ -83,10 +83,7 @@ Create a `.env` file in the root directory:
 ```
 MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
-
-
 IMAGEKIT_PRIVATE_KEY=your_private_key
-
 ```
 
 ---
