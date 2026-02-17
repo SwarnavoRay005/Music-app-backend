@@ -81,13 +81,12 @@ GET    /api/album           -> Get all albums
 Create a `.env` file in the root directory:
 
 ```
-PORT=5000
 MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 
-IMAGEKIT_PUBLIC_KEY=your_public_key
+
 IMAGEKIT_PRIVATE_KEY=your_private_key
-IMAGEKIT_URL_ENDPOINT=your_url_endpoint
+
 ```
 
 ---
