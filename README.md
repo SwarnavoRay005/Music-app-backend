@@ -115,7 +115,7 @@ npm run dev
 Server will start on:
 
 ```
-http://localhost:PORT
+http://localhost:2000
 ```
 
 ---
@@ -155,7 +155,7 @@ Music files are uploaded to **ImageKit.io** cloud storage for optimized delivery
 ## 👨‍💻 Author
 
 **Swarnavo Ray**
-Backend Developer | MERN Stack Enthusiast
+MERN Stack Enthusiast
 
 ---
 
