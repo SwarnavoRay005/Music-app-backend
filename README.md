@@ -70,8 +70,8 @@ GET    /api/music           -> Get all music
 ### 💿 Album Routes
 
 ```
-POST   /api/album/create    -> Create album
-GET    /api/album           -> Get all albums
+POST   /api/music/album    -> Create album
+GET    /api/albums          -> Get all albums
 ```
 
 ---
